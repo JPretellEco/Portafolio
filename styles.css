@@ -144,6 +144,10 @@ nav img {
 h2 {
     font-size: 42px;
     padding: 30px;
+    background: linear-gradient(90deg, #14B494 0%, #094E40 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 h3 {
